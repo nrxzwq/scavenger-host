@@ -16,3 +16,5 @@ Full up-to-date list of modifiers can be found in the [lang file here](https://g
 
 ## And off you go!
 The mod is highly configurable, and moderately extensible. It is possible to create simple addons that add new modifiers (although that feature is not fully tested and may be subject to change :P)
+
+For russian README.md[click](https://github.com/nrxzwq/scavenger-host/blob/main/README_RU.md)
