@@ -1,4 +1,3 @@
-[Uploading README.md…]()
 # Scavenger
 
 This mod allows for _exciting_ **item speedruns** in Minecraft!
